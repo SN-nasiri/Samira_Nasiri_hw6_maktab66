@@ -120,7 +120,7 @@ h4 {
   line-height: 22.5px;
   font-family: "Raleway", sans-serif;
 }
-.zero {
+.comment {
   font-weight: 700;
 }
 .my-name h4 {
@@ -219,7 +219,7 @@ footer p a {
   }
 }
 @media (max-width: 425px) {
-  .zero {
+  .comment {
     display: none;
   }
 }
